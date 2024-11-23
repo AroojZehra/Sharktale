@@ -7,7 +7,7 @@ A simple underwater-themed game built in C using the Raylib library. In this gam
 ## Features
 - Horizontal scrolling underwater background
 - Animated shark sprite
-- Interactable obstacles (fish, stingrays, shark nets, etc.)
+- Interactable obstacles (fish, ship anchors, bomb barrels, etc.)
 - Point tracking and IMMUNITY powerup
 - 3 Levels
 
